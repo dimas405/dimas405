@@ -31,7 +31,7 @@ public class HelloWorld {
   <a href="http://linkedin.com/in/dimas-a-pradana-340642303?">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-username/">
+  <a href="https://www.instagram.com/_.dimaz/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
