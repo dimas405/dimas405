@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello from Java
 
-<!--
-**dimas405/dimas405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Every journey begins with a single line of code.” — Unknown
 
-Here are some ideas to get you started:
+Here’s where it all begins — the classic `Hello, World!` in **Java**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+// Simple Java program to print "Hello, World!"
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("🌍 Hello, World! I'm Dimas A. Pradana");
+    }
+}
