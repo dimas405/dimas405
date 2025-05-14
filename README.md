@@ -12,6 +12,8 @@ public class HelloWorld {
     }
 }
 ```
+![Pac-Man Chomping](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ### 🖥️ Skills Programming
 <p text-align: justify;>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -25,8 +27,6 @@ public class HelloWorld {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
-![Pac-Man Chomping](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ### 📫 Connect With Me
 <p align="left">
