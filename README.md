@@ -26,6 +26,8 @@ public class HelloWorld {
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+![Pac-Man Chomping](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ### 📫 Connect With Me
 <p align="left">
   <a href="http://linkedin.com/in/dimas-a-pradana-340642303?">
