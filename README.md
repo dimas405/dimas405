@@ -12,8 +12,6 @@ public class HelloWorld {
     }
 }
 ```
-![Pac-Man Chomping](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ### 🖥️ Skills Programming
 <p text-align: justify;>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
